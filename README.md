@@ -7,7 +7,7 @@ I'm a **web development** enthusiast and a **student** with a strong focus on **
 - **Front-End:** React, Next.js
 - **Back-End:** Node.js, .NET
 - **Databases:** SQL, PostgreSQL
-- **Others:** Data Warehousing, ERP (SAP ABAP)
+- **Others:** Data Warehousing (ETL), ERP (SAP ABAP)
 
 ### 🌱 What I'm Learning:
 - Advanced **React** patterns
