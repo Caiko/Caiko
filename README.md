@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Marin Nikolov
 
-I'm a **web development** enthusiast and a **student** with a strong focus on **front-end development**. Currently, I'm woking on my skills in **JavaScript**, diving deep into **React** and **TypeScript**, and working towards mastering **Next.js**.
+I'm a **web development** enthusiast and a **student** with a strong focus on **front-end development**. Currently, I'm woking on my skills in **JavaScript**, diving deep into **React** and **TypeScript**, and working towards mastering **React and Next.js**.
 
 ### 🔧 My Tech Stack:
 - **Languages:** JavaScript, TypeScript
